@@ -35,8 +35,7 @@ Dart-Tutorials/
 ├── 4-relational-operators/   # Relational Operators
 ├── 5-type-test-operator/     # Type Test Operators
 ├── 6-logical-operators/      # Logical Operators
-├── projects/                 # Mini Projects
-├── notes/                    # Personal Notes and Summaries
+├── 7-if-else-statement/      # if-else Statement      
 └── README.md                 # This File
     </pre>
   </div>
