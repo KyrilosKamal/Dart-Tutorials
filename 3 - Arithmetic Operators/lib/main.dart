@@ -14,7 +14,7 @@ void main() {
   //Multiplication
   int g = 4;
   int h = 6;
-  int i = a * b;
+  int i = g * h;
   print(i);
 
   //Division
