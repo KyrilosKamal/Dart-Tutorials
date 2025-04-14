@@ -21,6 +21,7 @@ Mini Projects: Simple applications to experiment with concepts in real-world sce
 ------------------------------------------------------------------------------------------
 
 🗂️ Directory Structure
+<pre>
 Dart-Tutorials/
 ├── 1-variables/              # Variables and Data Types
 ├── 2-null-safety/            # Null Safety
@@ -31,6 +32,8 @@ Dart-Tutorials/
 ├── projects/                 # Mini Projects
 ├── notes/                    # Personal Notes and Summaries
 └── README.md                 # This File
+</pre>
+
 
 ------------------------------------------------------------------------------------------
 
