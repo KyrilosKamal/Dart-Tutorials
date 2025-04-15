@@ -36,6 +36,7 @@ Dart-Tutorials/
 ├── 5-type-test-operator/     # Type Test Operators
 ├── 6-logical-operators/      # Logical Operators
 ├── 7-if-else-statement/      # if-else Statement      
+├── 8-switch-case/            # Switch Case
 └── README.md                 # This File
     </pre>
   </div>
