@@ -29,15 +29,15 @@
     <h2><span class="emoji">🗂️</span>Directory Structure</h2>
     <pre>
 Dart-Tutorials/
-├── 1-variables/              # Variables and Data Types
-├── 2-null-safety/            # Null Safety
-├── 3-arithmetic-operators/   # Arithmetic Operators
-├── 4-relational-operators/   # Relational Operators
-├── 5-type-test-operator/     # Type Test Operators
-├── 6-logical-operators/      # Logical Operators
-├── 7-if-else-statement/      # if-else Statement      
-├── 8-switch-case/            # Switch Case
-├── 9-for-loop/               # For Loop
+├── 01-variables/              # Variables and Data Types
+├── 02-null-safety/            # Null Safety
+├── 03-arithmetic-operators/   # Arithmetic Operators
+├── 04-relational-operators/   # Relational Operators
+├── 05-type-test-operator/     # Type Test Operators
+├── 06-logical-operators/      # Logical Operators
+├── 07-if-else-statement/      # if-else Statement      
+├── 08-switch-case/            # Switch Case
+├── 09-for-loop/               # For Loop
 ├── 10-while-loop/            # While Loop
 └── README.md                 # This File
     </pre>
