@@ -37,6 +37,7 @@ Dart-Tutorials/
 ├── 6-logical-operators/      # Logical Operators
 ├── 7-if-else-statement/      # if-else Statement      
 ├── 8-switch-case/            # Switch Case
+├── 9-For Loop/               # For Loop
 └── README.md                 # This File
     </pre>
   </div>
