@@ -41,6 +41,8 @@ Dart-Tutorials/
 ├── 10-while-loop/             # While Loop
 ├── 11-do-while-loop/          # Do-While Loop
 ├── 12-break-continue-keyword/ # Break and Continue Keywords
+├── 13-number-properties/      # Number Properties
+├── 14-string-properties/      # String Properties
 └── README.md                  # This File
     </pre>
   </div>
