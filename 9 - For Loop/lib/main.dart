@@ -79,14 +79,17 @@ void main() {
  * Sum: The value of i is added to the variable sum each iteration.
  * 
  */
-
+  //==============================================================================================================================
+  // Example 4: Printing years from 1900 to 2025:
+  for (int year = 1900; year <= 2025; year++) {
+    print("$year");
+  }
   //==============================================================================================================================
   /** Important Notes:
    * Nested Loops: For loops can be placed inside each other to perform more complex operations.
    * Avoid infinite loops: Make sure that the loop condition will be met at some point
    * otherwise, the loop will continue indefinitely, which may lead to system resource consumption.
   */
-
   for (int a = 1; a <= 3; a++) {
     for (int b = 1; b <= 3; b++) {
       print("a:$a, b:$b");
