@@ -29,25 +29,25 @@
     <h2><span class="emoji">🗂️</span>Directory Structure</h2>
     <pre>
 Dart-Tutorials/
-├── 01-variables/              # Variables and Data Types
-├── 02-null-safety/            # Null Safety
-├── 03-arithmetic-operators/   # Arithmetic Operators
-├── 04-relational-operators/   # Relational Operators
-├── 05-type-test-operator/     # Type Test Operators
-├── 06-logical-operators/      # Logical Operators
-├── 07-if-else-statement/      # if-else Statement      
-├── 08-switch-case/            # Switch Case
-├── 09-for-loop/               # For Loop
-├── 10-while-loop/             # While Loop
-├── 11-do-while-loop/          # Do-While Loop
-├── 12-break-continue-keyword/ # Break and Continue Keywords
-├── 13-number-properties/      # Number Properties
-├── 14-string-properties/      # String Properties
-├── 15-list/                   # Lists
-├── 16-Maps/                   # Maps
-├── 17-dynamic-and-Var/        # Dynamic and Var
-├── 18-final-and-const-keyword/        # Final and Const Keyword
-└── README.md                  # This File
+├── 01-variables/                # Variables and Data Types
+├── 02-null-safety/              # Null Safety
+├── 03-arithmetic-operators/     # Arithmetic Operators
+├── 04-relational-operators/     # Relational Operators
+├── 05-type-test-operator/       # Type Test Operators
+├── 06-logical-operators/        # Logical Operators
+├── 07-if-else-statement/        # if-else Statement      
+├── 08-switch-case/              # Switch Case
+├── 09-for-loop/                 # For Loop
+├── 10-while-loop/               # While Loop
+├── 11-do-while-loop/            # Do-While Loop
+├── 12-break-continue-keyword/   # Break and Continue Keywords
+├── 13-number-properties/        # Number Properties
+├── 14-string-properties/        # String Properties
+├── 15-list/                     # Lists
+├── 16-Maps/                     # Maps
+├── 17-dynamic-and-Var/          # Dynamic and Var
+├── 18-final-and-const-keyword/  # Final and Const Keyword
+└── README.md                    # This File
     </pre>
   </div>
 
