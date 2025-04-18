@@ -44,8 +44,8 @@ Dart-Tutorials/
 ├── 13-number-properties/      # Number Properties
 ├── 14-string-properties/      # String Properties
 ├── 15-list/                   # Lists
-├── 15-Maps/                   # Maps
-├── 16 -Dynamic-and-Var/       # Dynamic and Var 
+├── 16-Maps/                   # Maps
+├── 17-Dynamic-and-Var/       # Dynamic and Var 
 └── README.md                  # This File
     </pre>
   </div>
