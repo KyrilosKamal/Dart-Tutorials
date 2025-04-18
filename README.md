@@ -45,7 +45,7 @@ Dart-Tutorials/
 ├── 14-string-properties/        # String Properties
 ├── 15-list/                     # Lists
 ├── 16-Maps/                     # Maps
-├── 17-dynamic-and-Var/          # Dynamic and Var
+├── 17-dynamic-and-var/          # Dynamic and Var
 ├── 18-final-and-const-keyword/  # Final and Const Keyword
 └── README.md                    # This File
     </pre>
