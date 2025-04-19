@@ -48,7 +48,7 @@ Dart-Tutorials/
 ├── 17-dynamic-and-var/                   # Dynamic and Var
 ├── 18-final-and-const-keyword/           # Final and Const Keyword
 ├── 19-set/                               # Set
-├── 20-/compare-between-list-map-set      # Compare Between List, Map, and Set 
+├── 20-compare-between-list-map-set/      # Compare Between List, Map, and Set 
 └── README.md                             # This File
     </pre>
   </div>
