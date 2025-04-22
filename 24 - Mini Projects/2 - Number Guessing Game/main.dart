@@ -9,10 +9,8 @@ void main() {
 
   int targetNumber = Random().nextInt(100) + 1; // 1 to 100
 
-  int guess = 0;
   int attempts = 0;
   int maxAttempts = 5;
-  bool isGuessed = false;
 
   while (attempts < maxAttempts) {
     stdout.write("Attempt ${attempts + 1}: Enter your guess: ");
@@ -34,7 +32,6 @@ void main() {
       print(" Too high! Try again.\n");
     } else {
       print(" Congratulations! You guessed the number in $attempts attempts.");
-      isGuessed = true;
       break;
     }
   }
