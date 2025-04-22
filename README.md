@@ -53,6 +53,7 @@ Dart-Tutorials/
 ├── 22-function/                          # Function
 ├── 23-import/                            # Import keyword
 ├── 24-mini-projects/                     # Mini Projects (To-Do List, Simple Calculator, Number Guessing Game, File Organizer)
+├── 25-runes/                             # Runes
 └── README.md                             # This File
     </pre>
   </div>
