@@ -55,6 +55,7 @@ Dart-Tutorials/
 ├── 24-mini-projects/                     # Mini Projects (To-Do List, Simple Calculator, Number Guessing Game, File Organizer)
 ├── 25-runes/                             # Runes
 ├── 26-assert-keyword/                    # Assert Keyword
+├── 27-max-and-min/                       # Max and Min keywords
 └── README.md                             # This File
     </pre>
   </div>
