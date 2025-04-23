@@ -57,6 +57,10 @@ Dart-Tutorials/
 ├── 26-assert-keyword/                    # Assert Keyword
 ├── 27-max-and-min/                       # Max and Min keywords
 ├── 28-firstWhere-asMap-and-whereType/    # firstWhere, asMap, and whereType keywords    
+├── 29-any-every-take-keywords/           # Any, Every, Take keywords
+├── 30-where-indexwhere-keywords/         # Where, indexWhere keywords
+├── 31-startwith-endwith-keywords/        # StartWith, EndWith keywords
+├── 32-summery/                           # Summery
 └── README.md                             # This File
     </pre>
   </div>
