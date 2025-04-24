@@ -61,6 +61,9 @@ Dart-Tutorials/
 ├── 30-where-indexwhere-keywords/         # Where, indexWhere keywords
 ├── 31-startwith-endwith-keywords/        # StartWith, EndWith keywords
 ├── 32-summery/                           # Summery
+├── 33-iterable-and-iterator/             # Iterable and Iterator
+├── 34-map-methods/                       # Map Methods
+├── 35-try-and-catch/                     # Try and Catch
 └── README.md                             # This File
     </pre>
   </div>
