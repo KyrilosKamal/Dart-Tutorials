@@ -49,4 +49,9 @@ void main() {
   } else {
     print("Access is not permitted for those under 18 years of age.");
   }
+
+
+  // another way to use if-else statement in shorthandway
+  int x = 10;
+  (x => 10) ? print ("output is equals to 10") : print ("output is not equals to 10");
 }
