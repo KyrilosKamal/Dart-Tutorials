@@ -51,7 +51,7 @@ void main() {
   }
 
 
-  // another way to use if-else statement in shorthandway
+  // another way to use if-else statement in shorthand way
   int x = 10;
   (x => 10) ? print ("output is equals to 10") : print ("output is not equals to 10");
 }
