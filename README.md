@@ -64,6 +64,12 @@ Dart-Tutorials/
 ├── 33-iterable-and-iterator/             # Iterable and Iterator
 ├── 34-map-methods/                       # Map Methods
 ├── 35-try-and-catch/                     # Try and Catch
+├── 36-oop/                               # Object Oriented Programming (OOP)
+├── 37-method-class/                      # Method Class
+├── 38-constructor/                       # Constructor
+├── 39-setter-and-getter/                 # Setter & Getter
+├── 40-static-keyword/                    # Static Keyword
+├── 41-inheritance-concept/               # Inheritance Concept
 └── README.md                             # This File
     </pre>
   </div>
